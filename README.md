@@ -1,6 +1,6 @@
-## Food Rescue – Web Application
+## Hopeful Meal – Web Application
 
-Food Rescue is a lightweight web application designed to **reduce food waste** by connecting **supermarkets, restaurants, and farms (donors)** with **local charities** and **volunteer drivers**.  
+Hopeful Meal is a lightweight web application designed to **reduce food waste** by connecting **supermarkets, restaurants, and farms (donors)** with **local charities**.
 This version is a front-end–only prototype that runs entirely in the browser and persists data using `localStorage`.
 
 ### Features
@@ -63,5 +63,6 @@ No build step, server, or installation is required.
   - There is no real multi-user backend; it’s a single-device prototype suitable for demos.
 
 To turn this into a production multi-user system, you can plug the UI into a backend API (Node/Express, Django, etc.) with a database (PostgreSQL, MongoDB, etc.) and add authentication for each role.
+
 
 
